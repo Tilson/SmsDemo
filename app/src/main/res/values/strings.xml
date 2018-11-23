@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmsDemo</string>
+    <string name="smsDemoText">Please key in that you want to send</string>
+    <string name="smsDemoBtn">Send</string>
+    <string name="msgPrefix">SMS send to:</string>
+    <string name="magEmpty">Message is empty</string>
+    <string name="getDataError">Error: not get uri data</string>
+    <string name="getCursorError">Error: not get cursor</string>
+    <string name="permissionError">Not get permission</string>
+</resources>
